@@ -1,0 +1,14 @@
+{
+  "name": "powertools-carbon",
+  "version": "0.0.1",
+  "description": "This project is a source of truth for all the code screenshot we use. We store only the code and generate the screenshot whenever we need it using predefined configurations.",
+  "main": "index.js",
+  "scripts": {
+    "carbon-ts": "npx carbon-now-cli --config ./local-config.json -- "
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "carbon-now-cli": "2.0.0"
+  }
+}

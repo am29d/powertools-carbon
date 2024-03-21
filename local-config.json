@@ -1,0 +1,21 @@
+{
+    "latest-preset": {
+        "theme": "night-owl",
+        "backgroundColor": "#161E2D",
+        "dropShadows": false,
+        "exportSize": "2x",
+        "firstLineNumber": 1,
+        "fontFamily": "Hack",
+        "fontSize": "18px",
+        "language": "auto",
+        "lineHeight": "133%",
+        "lineNumbers": true,
+        "selectedLines": "*",
+        "squaredImage": false,
+        "type": "png",
+        "watermark": false,
+        "widthAdjustment": true,
+        "windowControls": false,
+        "windowTheme": "none"
+    }
+}
