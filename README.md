@@ -12,7 +12,7 @@ It also enables a consistent visual output from the examples, so you don't have 
 
 1. Install the necessary dependencies by running `npm install` in your terminal.
 
-2. To generate an image, use the `npm run carbon` script followed by the path to the file. For example, if you want to generate an image for a file located at `typescript/src/logger.ts`, you would use the following command:
+2. To generate an image, use the `npm run carbon-cli` script followed by the path to the file. For example, if you want to generate an image for a file located at `typescript/src/logger.ts`, you would use the following command:
 
 ```
 npm run carbon ./typescript/src/logger.ts
